@@ -1,6 +1,10 @@
 # Engineering Manager Resources 
  A list of engineering manager resource links.
 
+## Mentoring
+ * [Plato](https://www.platohq.com/)
+ * [SCORE](https://www.score.org/)
+
 ## Books
  * [Talking with Tech Leads: From Novices to Practitioners](https://www.amazon.com/Talking-Tech-Leads-Novices-Practitioners/dp/150581748X)
  * [Behind Closed Doors: Secrets of Great Management](https://www.amazon.com/Behind-Closed-Doors-Management-Programmers-ebook/dp/B00A4OA6UQ/ref=mt_kindle?_encoding=UTF8&me=)
@@ -22,19 +26,34 @@
  * [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2)
  * [Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams](https://www.amazon.com/Managing-Unmanageable-Insights-Software-People-ebook/dp/B009CFV8BY)
  * [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency-ebook/dp/B004SOVC2Y)
+ * [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.amazon.com/Principles-Product-Development-Flow-Generation-ebook/dp/B007TKU0O0)
+ * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/)
+ * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
+ * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
+ * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+ * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
+ * [Leading Snowflakes: The Engineering Manager Handbook](http://leadingsnowflakes.com)
+ * [The Mythical Man-Month: Essays on Software Engineering](https://www.amazon.com/dp/0201835959/)
+ * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/dp/0062273205/)
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
  * [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
  * [Female Career Advancement Summed up in One Usable Diagram // Janice Fraser // Calibrate 2016](https://www.youtube.com/watch?v=SDIV8XV6Qrg&t=1s)
  * [The Vegetable Talk (Leadership. By the numbers.) // Michael Lopp // Calibrate 2016](https://youtu.be/AGJaqQ0b8AE?t=3m13s)
+ * [Rory Vaden - How To Multiply Your Time](https://www.youtube.com/watch?v=y2X7c9TUQJ8)
  * [Lara Hogan - Demystifying Public Speaking](https://www.youtube.com/watch?v=20GYQcBhXDo)
+ * [Camille Fournier - Building a High-Performance Team is Everyone's Job](https://www.youtube.com/watch?v=pTf5mqOrwvY)
+ * [Camille Fournier - Building and Motivating Engineering Teams](https://www.youtube.com/watch?v=7R-Y2DwWOr0)
+ * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
+ * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/)
  * [Manager Tools](https://itunes.apple.com/us/podcast/manager-tools/id74198801?mt=2)
  * [HBR episode on interviews](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2&i=363677863)
  * [HBR episode on feedback](https://itunes.apple.com/us/podcast/hbr-ideacast/id152022135?mt=2#episodeGuid=5f93f6ea0140dc92ea655196e51be183)
+ * [Endless Rewrites and Fake Deadlines](https://softskills.audio/2017/10/13/episode-78-endless-rewrites-and-fake-deadlines/)
  * [The Full Ratchet: VC | Venture Capital | Angel Investors | Startup Investing | Fundraising | Crowdfunding | Pitch | Private Equ](https://itunes.apple.com/ca/podcast/118.-economic-theory-in-venture/id888084300?i=1000378448924&mt=2)
 
 ## Articles
@@ -72,6 +91,7 @@
  * [How Loss Aversion and Conformity Threaten Organizational Change](https://hbr.org/2016/11/how-loss-aversion-and-conformity-threaten-organizational-change)
  * [10 Candidate Questions That’ll Make You Squirm (But Earn)](http://theundercoverrecruiter.com/make-you-squirm/)
  * [The Future of Tech Recruitment: Sourcing, Hiring and Retaining Top Talent](http://theundercoverrecruiter.com/future-of-tech-recruitment/)
+ * [Engineering Growth Framework](https://medium.com/s/engineering-growth-framework)
  * [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
  * [Regardless of seniority, every good manager will](http://randsinrepose.com/links/2017/01/05/regardless-of-seniority-every-good-manager-will/)
  * [W.A.I.S.T. The art of opening your ears and listening has never been so powerful](https://ibenstewart.com/w-a-i-s-t-68e9e5998da2)
@@ -85,6 +105,12 @@
  * [Culture is the Behavior You Reward and Punish](https://jocelyngoldfein.com/culture-is-the-behavior-you-reward-and-punish-7e8e75c6543e)
  * [First Round Management Articles](http://firstround.com/review/management/)
  * [First Round Review's 6 Must Reads to Run Fast, Efficient Meetings](http://firstround.com/review/first-round-reviews-6-must-reads-to-run-fast-efficient-meetings/)
+ * [How I share information with my team](http://www.mikemcgarr.com/blog/week-in-review.html?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Tech%20People%20Leadership)
+ * [Emotional Intelligence Needs a Rewrite](http://nautil.us/issue/51/limits/emotional-intelligence-needs-a-rewrite)
+ * [Joel on Software: Tech Lead reading list](https://www.joelonsoftware.com/category/reading-lists/tech-lead/)
+
+## Newsletters
+ * [Software Lead Weekly](http://softwareleadweekly.com/)
 
 ## Contributing 
 1. Fork it
